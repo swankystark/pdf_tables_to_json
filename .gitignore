@@ -66,3 +66,8 @@ logs/
 
 # Local development
 local_settings.py
+
+# Specific Python files to ignore
+gemini.py
+gemini2.py
+hosted_suriya.py
