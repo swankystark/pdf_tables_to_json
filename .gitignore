@@ -32,6 +32,7 @@ previous_outputs/
 split_pdfs/
 border_color/
 iteration/
+suriya/
 
 # Virtual environment
 table_extractor_env/
